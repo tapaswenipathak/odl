@@ -1,0 +1,6 @@
+DiscreteLp.real_dtype
+========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.real_dtype

@@ -1,0 +1,6 @@
+ResizingOperatorBase.inverse
+================================================
+
+.. currentmodule:: odl.discr.discr_ops
+
+.. autoproperty:: ResizingOperatorBase.inverse

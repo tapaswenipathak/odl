@@ -1,0 +1,6 @@
+PerAxisInterpolation.partition
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.partition

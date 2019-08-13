@@ -1,0 +1,6 @@
+PointCollocation.domain
+================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PointCollocation.domain

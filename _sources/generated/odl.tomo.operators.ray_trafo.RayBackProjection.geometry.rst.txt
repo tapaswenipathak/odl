@@ -1,0 +1,6 @@
+RayBackProjection.geometry
+=======================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.geometry

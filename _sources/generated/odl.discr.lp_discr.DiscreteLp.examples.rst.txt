@@ -1,0 +1,6 @@
+DiscreteLp.examples
+======================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.examples

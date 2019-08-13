@@ -1,0 +1,6 @@
+RayBackProjection.range
+====================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.range

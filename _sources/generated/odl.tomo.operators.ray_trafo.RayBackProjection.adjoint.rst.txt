@@ -1,0 +1,6 @@
+RayBackProjection.adjoint
+======================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.adjoint

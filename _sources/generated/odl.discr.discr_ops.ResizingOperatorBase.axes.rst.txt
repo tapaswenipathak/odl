@@ -1,0 +1,6 @@
+ResizingOperatorBase.axes
+=============================================
+
+.. currentmodule:: odl.discr.discr_ops
+
+.. autoproperty:: ResizingOperatorBase.axes

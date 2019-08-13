@@ -1,0 +1,6 @@
+DiscreteLpElement.ndim
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.ndim

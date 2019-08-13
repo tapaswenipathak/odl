@@ -1,0 +1,6 @@
+NearestInterpolation.variant
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: NearestInterpolation.variant

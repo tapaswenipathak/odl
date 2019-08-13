@@ -1,0 +1,6 @@
+RayTransformBase.range
+===================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayTransformBase.range

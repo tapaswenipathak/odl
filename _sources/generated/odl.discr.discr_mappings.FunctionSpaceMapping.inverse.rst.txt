@@ -1,0 +1,6 @@
+FunctionSpaceMapping.inverse
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.inverse

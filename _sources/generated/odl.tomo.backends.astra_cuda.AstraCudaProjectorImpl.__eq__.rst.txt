@@ -1,0 +1,8 @@
+:orphan:
+
+AstraCudaProjectorImpl.__eq__
+==========================================================
+
+.. currentmodule:: odl.tomo.backends.astra_cuda
+
+.. automethod:: AstraCudaProjectorImpl.__eq__

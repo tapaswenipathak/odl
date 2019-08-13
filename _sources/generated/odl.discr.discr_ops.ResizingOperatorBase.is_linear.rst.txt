@@ -1,0 +1,6 @@
+ResizingOperatorBase.is_linear
+==================================================
+
+.. currentmodule:: odl.discr.discr_ops
+
+.. autoproperty:: ResizingOperatorBase.is_linear

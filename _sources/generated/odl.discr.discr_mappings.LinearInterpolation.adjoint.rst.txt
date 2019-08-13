@@ -1,0 +1,6 @@
+LinearInterpolation.adjoint
+====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.adjoint

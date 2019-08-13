@@ -1,0 +1,6 @@
+LinearInterpolation.grid
+=================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.grid

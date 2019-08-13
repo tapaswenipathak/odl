@@ -1,0 +1,6 @@
+FunctionSpace.complex_space
+============================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.complex_space

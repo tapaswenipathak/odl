@@ -1,0 +1,6 @@
+PointCollocation.is_functional
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PointCollocation.is_functional

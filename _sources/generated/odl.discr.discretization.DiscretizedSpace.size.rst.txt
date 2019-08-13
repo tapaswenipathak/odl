@@ -1,0 +1,6 @@
+DiscretizedSpace.size
+==============================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.size

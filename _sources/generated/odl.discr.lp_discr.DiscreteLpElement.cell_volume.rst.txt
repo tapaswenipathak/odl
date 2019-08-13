@@ -1,0 +1,6 @@
+DiscreteLpElement.cell_volume
+================================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.cell_volume

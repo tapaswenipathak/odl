@@ -1,0 +1,6 @@
+DiscretizedSpace.interpolation
+=======================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.interpolation

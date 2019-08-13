@@ -1,0 +1,6 @@
+FunctionSpace.element_type
+===========================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.element_type

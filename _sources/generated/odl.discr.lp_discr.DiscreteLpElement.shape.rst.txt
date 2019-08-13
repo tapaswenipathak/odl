@@ -1,0 +1,6 @@
+DiscreteLpElement.shape
+==========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.shape

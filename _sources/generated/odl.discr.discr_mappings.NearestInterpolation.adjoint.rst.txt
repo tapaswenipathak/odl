@@ -1,0 +1,6 @@
+NearestInterpolation.adjoint
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: NearestInterpolation.adjoint

@@ -1,0 +1,6 @@
+FunctionSpace.byaxis_out
+=========================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.byaxis_out

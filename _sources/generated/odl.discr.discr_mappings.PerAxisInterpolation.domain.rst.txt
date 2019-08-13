@@ -1,0 +1,6 @@
+PerAxisInterpolation.domain
+====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.domain

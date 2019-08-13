@@ -1,0 +1,6 @@
+LinearInterpolation.is_functional
+==========================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.is_functional

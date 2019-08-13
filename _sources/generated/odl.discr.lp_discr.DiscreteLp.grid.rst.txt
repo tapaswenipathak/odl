@@ -1,0 +1,6 @@
+DiscreteLp.grid
+==================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.grid

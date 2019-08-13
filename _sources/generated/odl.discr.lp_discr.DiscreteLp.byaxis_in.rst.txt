@@ -1,0 +1,6 @@
+DiscreteLp.byaxis_in
+=======================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.byaxis_in

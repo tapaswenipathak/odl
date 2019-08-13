@@ -1,0 +1,6 @@
+DiscretizedSpace.fspace
+================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.fspace

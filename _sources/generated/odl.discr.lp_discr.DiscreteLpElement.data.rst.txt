@@ -1,0 +1,6 @@
+DiscreteLpElement.data
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.data

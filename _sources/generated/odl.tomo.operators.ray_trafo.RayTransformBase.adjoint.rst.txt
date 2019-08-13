@@ -1,0 +1,6 @@
+RayTransformBase.adjoint
+=====================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayTransformBase.adjoint

@@ -1,0 +1,6 @@
+FunctionSpaceMapping.domain
+====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.domain

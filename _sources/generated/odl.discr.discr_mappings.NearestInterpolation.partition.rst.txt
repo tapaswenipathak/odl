@@ -1,0 +1,6 @@
+NearestInterpolation.partition
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: NearestInterpolation.partition

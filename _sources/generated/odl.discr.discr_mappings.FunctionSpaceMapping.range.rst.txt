@@ -1,0 +1,6 @@
+FunctionSpaceMapping.range
+===================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.range

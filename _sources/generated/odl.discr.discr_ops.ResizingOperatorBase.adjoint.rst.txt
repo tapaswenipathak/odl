@@ -1,0 +1,6 @@
+ResizingOperatorBase.adjoint
+================================================
+
+.. currentmodule:: odl.discr.discr_ops
+
+.. autoproperty:: ResizingOperatorBase.adjoint

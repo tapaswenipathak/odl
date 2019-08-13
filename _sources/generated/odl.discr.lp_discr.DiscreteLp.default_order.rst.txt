@@ -1,0 +1,6 @@
+DiscreteLp.default_order
+===========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.default_order

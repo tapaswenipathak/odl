@@ -1,0 +1,6 @@
+FunctionSpace.tensor_valued
+============================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.tensor_valued

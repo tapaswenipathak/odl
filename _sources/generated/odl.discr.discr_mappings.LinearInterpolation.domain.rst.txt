@@ -1,0 +1,6 @@
+LinearInterpolation.domain
+===================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.domain

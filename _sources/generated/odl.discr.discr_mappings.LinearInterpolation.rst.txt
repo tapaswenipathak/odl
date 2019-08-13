@@ -1,0 +1,39 @@
+LinearInterpolation
+============================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoclass:: LinearInterpolation
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         LinearInterpolation.__call__
+         LinearInterpolation.__eq__
+         LinearInterpolation._call
+         LinearInterpolation.derivative
+         LinearInterpolation.norm
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         LinearInterpolation.adjoint
+         LinearInterpolation.domain
+         LinearInterpolation.grid
+         LinearInterpolation.inverse
+         LinearInterpolation.is_functional
+         LinearInterpolation.is_linear
+         LinearInterpolation.partition
+         LinearInterpolation.range
+   
+   

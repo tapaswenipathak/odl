@@ -1,0 +1,6 @@
+FunctionSpaceElement.domain
+============================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpaceElement.domain

@@ -1,0 +1,6 @@
+FunctionSpaceElement.imag
+==========================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpaceElement.imag

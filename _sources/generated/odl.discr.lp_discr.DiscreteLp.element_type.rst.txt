@@ -1,0 +1,6 @@
+DiscreteLp.element_type
+==========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.element_type

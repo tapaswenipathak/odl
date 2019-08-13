@@ -1,0 +1,6 @@
+NearestInterpolation.is_linear
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: NearestInterpolation.is_linear

@@ -1,0 +1,6 @@
+DiscreteLp.impl
+==================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.impl

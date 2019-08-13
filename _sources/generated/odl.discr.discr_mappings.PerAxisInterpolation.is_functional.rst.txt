@@ -1,0 +1,6 @@
+PerAxisInterpolation.is_functional
+===========================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.is_functional

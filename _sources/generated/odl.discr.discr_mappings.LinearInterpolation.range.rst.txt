@@ -1,0 +1,6 @@
+LinearInterpolation.range
+==================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.range

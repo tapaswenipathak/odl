@@ -1,0 +1,6 @@
+DiscretizedSpace.field
+===============================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.field

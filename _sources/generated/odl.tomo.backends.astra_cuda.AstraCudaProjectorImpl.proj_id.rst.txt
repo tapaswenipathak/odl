@@ -1,0 +1,6 @@
+AstraCudaProjectorImpl.proj_id
+===========================================================
+
+.. currentmodule:: odl.tomo.backends.astra_cuda
+
+.. autoattribute:: AstraCudaProjectorImpl.proj_id

@@ -1,0 +1,6 @@
+DiscretizedSpace.weighting
+===================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.weighting

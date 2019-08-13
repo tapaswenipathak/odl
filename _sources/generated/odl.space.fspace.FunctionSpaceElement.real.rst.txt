@@ -1,0 +1,6 @@
+FunctionSpaceElement.real
+==========================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpaceElement.real

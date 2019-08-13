@@ -1,0 +1,6 @@
+DiscreteLpElement.tensor
+===========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.tensor

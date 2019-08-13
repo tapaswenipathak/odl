@@ -1,0 +1,6 @@
+DiscretizedSpace.examples
+==================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.examples

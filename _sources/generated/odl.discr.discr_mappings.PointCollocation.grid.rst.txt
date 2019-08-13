@@ -1,0 +1,6 @@
+PointCollocation.grid
+==============================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PointCollocation.grid

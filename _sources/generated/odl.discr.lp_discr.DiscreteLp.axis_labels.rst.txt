@@ -1,0 +1,6 @@
+DiscreteLp.axis_labels
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.axis_labels

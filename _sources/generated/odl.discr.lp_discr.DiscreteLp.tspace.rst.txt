@@ -1,0 +1,6 @@
+DiscreteLp.tspace
+====================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.tspace

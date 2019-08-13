@@ -1,0 +1,6 @@
+DiscreteLp.is_weighted
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.is_weighted

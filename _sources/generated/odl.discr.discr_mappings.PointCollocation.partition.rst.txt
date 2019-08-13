@@ -1,0 +1,6 @@
+PointCollocation.partition
+===================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PointCollocation.partition

@@ -1,0 +1,6 @@
+LinearInterpolation.inverse
+====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: LinearInterpolation.inverse

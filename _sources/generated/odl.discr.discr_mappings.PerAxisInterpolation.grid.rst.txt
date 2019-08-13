@@ -1,0 +1,6 @@
+PerAxisInterpolation.grid
+==================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.grid

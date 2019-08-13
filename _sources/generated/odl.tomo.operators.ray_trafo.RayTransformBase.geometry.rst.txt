@@ -1,0 +1,6 @@
+RayTransformBase.geometry
+======================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayTransformBase.geometry

@@ -1,0 +1,6 @@
+PerAxisInterpolation.range
+===================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.range

@@ -1,0 +1,6 @@
+RayBackProjection.is_functional
+============================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.is_functional

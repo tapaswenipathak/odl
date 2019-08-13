@@ -1,0 +1,6 @@
+RayBackProjection.inverse
+======================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.inverse

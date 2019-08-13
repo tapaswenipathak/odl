@@ -1,0 +1,6 @@
+FunctionSpace.is_real
+======================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.is_real

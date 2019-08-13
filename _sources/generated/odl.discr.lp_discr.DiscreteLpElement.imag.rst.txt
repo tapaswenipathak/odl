@@ -1,0 +1,6 @@
+DiscreteLpElement.imag
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.imag

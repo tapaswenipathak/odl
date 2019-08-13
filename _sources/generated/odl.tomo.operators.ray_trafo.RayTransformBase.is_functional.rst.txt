@@ -1,0 +1,6 @@
+RayTransformBase.is_functional
+===========================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayTransformBase.is_functional

@@ -1,0 +1,39 @@
+FunctionSpaceMapping
+=============================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoclass:: FunctionSpaceMapping
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         FunctionSpaceMapping.__call__
+         FunctionSpaceMapping.__eq__
+         FunctionSpaceMapping._call
+         FunctionSpaceMapping.derivative
+         FunctionSpaceMapping.norm
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         FunctionSpaceMapping.adjoint
+         FunctionSpaceMapping.domain
+         FunctionSpaceMapping.grid
+         FunctionSpaceMapping.inverse
+         FunctionSpaceMapping.is_functional
+         FunctionSpaceMapping.is_linear
+         FunctionSpaceMapping.partition
+         FunctionSpaceMapping.range
+   
+   

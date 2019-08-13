@@ -1,0 +1,6 @@
+RayBackProjection.domain
+=====================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayBackProjection.domain

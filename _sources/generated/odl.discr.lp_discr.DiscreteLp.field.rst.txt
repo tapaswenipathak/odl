@@ -1,0 +1,6 @@
+DiscreteLp.field
+===================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.field

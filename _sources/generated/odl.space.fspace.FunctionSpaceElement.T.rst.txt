@@ -1,0 +1,6 @@
+FunctionSpaceElement.T
+=======================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpaceElement.T

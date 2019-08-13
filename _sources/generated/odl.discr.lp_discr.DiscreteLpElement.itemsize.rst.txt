@@ -1,0 +1,6 @@
+DiscreteLpElement.itemsize
+=============================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.itemsize

@@ -1,0 +1,6 @@
+FunctionSpaceMapping.adjoint
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.adjoint

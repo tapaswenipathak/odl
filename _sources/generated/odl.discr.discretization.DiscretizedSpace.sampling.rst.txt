@@ -1,0 +1,6 @@
+DiscretizedSpace.sampling
+==================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.sampling

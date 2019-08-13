@@ -1,0 +1,6 @@
+DiscreteLpElement.cell_sides
+===============================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.cell_sides

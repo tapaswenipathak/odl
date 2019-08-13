@@ -1,0 +1,6 @@
+PointCollocation.inverse
+=================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PointCollocation.inverse

@@ -1,0 +1,6 @@
+FunctionSpaceMapping.is_linear
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.is_linear

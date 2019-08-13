@@ -1,0 +1,90 @@
+DiscreteLp
+=============================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoclass:: DiscreteLp
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         DiscreteLp.__contains__
+         DiscreteLp.__eq__
+         DiscreteLp._dist
+         DiscreteLp._divide
+         DiscreteLp._inner
+         DiscreteLp._lincomb
+         DiscreteLp._multiply
+         DiscreteLp._norm
+         DiscreteLp.astype
+         DiscreteLp.available_dtypes
+         DiscreteLp.contains_all
+         DiscreteLp.contains_set
+         DiscreteLp.default_dtype
+         DiscreteLp.dist
+         DiscreteLp.divide
+         DiscreteLp.element
+         DiscreteLp.inner
+         DiscreteLp.lincomb
+         DiscreteLp.multiply
+         DiscreteLp.norm
+         DiscreteLp.one
+         DiscreteLp.points
+         DiscreteLp.zero
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         DiscreteLp.axis_labels
+         DiscreteLp.byaxis_in
+         DiscreteLp.cell_sides
+         DiscreteLp.cell_volume
+         DiscreteLp.complex_dtype
+         DiscreteLp.complex_space
+         DiscreteLp.default_order
+         DiscreteLp.domain
+         DiscreteLp.dtype
+         DiscreteLp.element_type
+         DiscreteLp.examples
+         DiscreteLp.exponent
+         DiscreteLp.field
+         DiscreteLp.fspace
+         DiscreteLp.grid
+         DiscreteLp.impl
+         DiscreteLp.interp
+         DiscreteLp.interp_byaxis
+         DiscreteLp.interpolation
+         DiscreteLp.is_complex
+         DiscreteLp.is_real
+         DiscreteLp.is_uniform
+         DiscreteLp.is_uniform_byaxis
+         DiscreteLp.is_uniformly_weighted
+         DiscreteLp.is_weighted
+         DiscreteLp.itemsize
+         DiscreteLp.max_pt
+         DiscreteLp.meshgrid
+         DiscreteLp.min_pt
+         DiscreteLp.nbytes
+         DiscreteLp.ndim
+         DiscreteLp.partition
+         DiscreteLp.real_dtype
+         DiscreteLp.real_space
+         DiscreteLp.sampling
+         DiscreteLp.shape
+         DiscreteLp.size
+         DiscreteLp.tangent_bundle
+         DiscreteLp.tspace
+         DiscreteLp.tspace_type
+         DiscreteLp.weighting
+   
+   

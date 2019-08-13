@@ -1,0 +1,6 @@
+DiscretizedSpace.is_real
+=================================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.is_real

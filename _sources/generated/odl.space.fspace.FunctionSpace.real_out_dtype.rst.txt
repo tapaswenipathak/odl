@@ -1,0 +1,6 @@
+FunctionSpace.real_out_dtype
+=============================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.real_out_dtype

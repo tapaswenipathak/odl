@@ -1,0 +1,6 @@
+DiscreteLpElement.real
+=========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.real

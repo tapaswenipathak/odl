@@ -1,0 +1,6 @@
+DiscreteLp.meshgrid
+======================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.meshgrid

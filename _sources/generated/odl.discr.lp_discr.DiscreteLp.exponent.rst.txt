@@ -1,0 +1,6 @@
+DiscreteLp.exponent
+======================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.exponent

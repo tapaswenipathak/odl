@@ -1,0 +1,6 @@
+DiscreteLp.min_pt
+====================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.min_pt

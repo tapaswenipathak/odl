@@ -1,0 +1,6 @@
+DiscreteLp.size
+==================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.size

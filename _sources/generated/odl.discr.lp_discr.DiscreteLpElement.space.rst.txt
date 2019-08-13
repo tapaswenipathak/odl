@@ -1,0 +1,6 @@
+DiscreteLpElement.space
+==========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.space

@@ -1,0 +1,39 @@
+RayBackProjection
+==============================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoclass:: RayBackProjection
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         RayBackProjection.__call__
+         RayBackProjection.__eq__
+         RayBackProjection._call
+         RayBackProjection.derivative
+         RayBackProjection.norm
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         RayBackProjection.adjoint
+         RayBackProjection.domain
+         RayBackProjection.geometry
+         RayBackProjection.impl
+         RayBackProjection.inverse
+         RayBackProjection.is_functional
+         RayBackProjection.is_linear
+         RayBackProjection.range
+   
+   

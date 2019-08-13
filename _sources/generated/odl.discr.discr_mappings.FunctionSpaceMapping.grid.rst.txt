@@ -1,0 +1,6 @@
+FunctionSpaceMapping.grid
+==================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.grid

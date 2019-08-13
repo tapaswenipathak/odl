@@ -1,0 +1,6 @@
+none_context
+=============================
+
+.. currentmodule:: odl.util.utility
+
+.. autofunction:: none_context

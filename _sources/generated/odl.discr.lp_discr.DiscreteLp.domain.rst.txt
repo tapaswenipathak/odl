@@ -1,0 +1,6 @@
+DiscreteLp.domain
+====================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLp.domain

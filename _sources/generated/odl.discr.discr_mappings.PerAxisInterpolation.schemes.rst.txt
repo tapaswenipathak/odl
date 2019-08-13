@@ -1,0 +1,6 @@
+PerAxisInterpolation.schemes
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.schemes

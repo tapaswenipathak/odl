@@ -1,0 +1,6 @@
+DiscreteLpElement.ufuncs
+===========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.ufuncs

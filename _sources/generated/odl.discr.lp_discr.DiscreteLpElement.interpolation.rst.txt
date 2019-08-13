@@ -1,0 +1,6 @@
+DiscreteLpElement.interpolation
+==================================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.interpolation

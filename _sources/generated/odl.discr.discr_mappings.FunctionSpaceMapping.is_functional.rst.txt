@@ -1,0 +1,6 @@
+FunctionSpaceMapping.is_functional
+===========================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: FunctionSpaceMapping.is_functional

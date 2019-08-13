@@ -1,0 +1,6 @@
+RayTransformBase.impl
+==================================================
+
+.. currentmodule:: odl.tomo.operators.ray_trafo
+
+.. autoproperty:: RayTransformBase.impl

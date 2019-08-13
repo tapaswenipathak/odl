@@ -1,0 +1,6 @@
+FunctionSpace.examples
+=======================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.examples

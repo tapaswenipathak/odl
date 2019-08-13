@@ -1,0 +1,6 @@
+DiscreteLpElement.nbytes
+===========================================
+
+.. currentmodule:: odl.discr.lp_discr
+
+.. autoproperty:: DiscreteLpElement.nbytes

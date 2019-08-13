@@ -1,0 +1,6 @@
+PerAxisInterpolation.is_linear
+=======================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.is_linear

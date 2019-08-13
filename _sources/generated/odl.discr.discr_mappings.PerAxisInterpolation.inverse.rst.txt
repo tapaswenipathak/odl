@@ -1,0 +1,6 @@
+PerAxisInterpolation.inverse
+=====================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: PerAxisInterpolation.inverse

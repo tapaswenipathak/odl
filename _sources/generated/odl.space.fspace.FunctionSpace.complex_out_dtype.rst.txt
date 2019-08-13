@@ -1,0 +1,6 @@
+FunctionSpace.complex_out_dtype
+================================================
+
+.. currentmodule:: odl.space.fspace
+
+.. autoproperty:: FunctionSpace.complex_out_dtype

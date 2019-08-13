@@ -1,0 +1,6 @@
+DiscretizedSpace.ndim
+==============================================
+
+.. currentmodule:: odl.discr.discretization
+
+.. autoproperty:: DiscretizedSpace.ndim

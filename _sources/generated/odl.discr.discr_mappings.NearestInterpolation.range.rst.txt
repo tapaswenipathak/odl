@@ -1,0 +1,6 @@
+NearestInterpolation.range
+===================================================
+
+.. currentmodule:: odl.discr.discr_mappings
+
+.. autoproperty:: NearestInterpolation.range
